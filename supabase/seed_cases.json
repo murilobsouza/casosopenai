@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Olho vermelho agudo com dor",
+    "theme": "Urgências",
+    "difficulty": 2,
+    "tags": [
+      "urgência",
+      "córnea"
+    ],
+    "stages": [
+      {
+        "stage_index": 1,
+        "title": "Etapa 1",
+        "content": "Paciente 24 anos, dor ocular e fotofobia há 12h, olho vermelho unilateral.",
+        "question": "Quais hipóteses diagnósticas iniciais?",
+        "max_score": 2
+      },
+      {
+        "stage_index": 2,
+        "title": "Etapa 2",
+        "content": "Refere uso de lente de contato gelatinosa e dormiu com a lente.",
+        "question": "Quais informações/exames você prioriza agora?",
+        "max_score": 2
+      },
+      {
+        "stage_index": 3,
+        "title": "Etapa 3",
+        "content": "AV 20/40. Hiperemia ciliar. Fluoresceína: defeito epitelial central com infiltrado discreto.",
+        "question": "Qual o diagnóstico mais provável e justificativa (sem pedir exames ainda não descritos)?",
+        "max_score": 2
+      },
+      {
+        "stage_index": 4,
+        "title": "Etapa 4",
+        "content": "Sem hipópio. Dor moderada. Sem história de trauma.",
+        "question": "Qual a conduta imediata e orientações?",
+        "max_score": 2
+      },
+      {
+        "stage_index": 5,
+        "title": "Etapa 5",
+        "content": "Evoluiu bem com terapia adequada e suspensão das lentes.",
+        "question": "Resuma os principais aprendizados e red flags.",
+        "max_score": 2
+      }
+    ]
+  }
+]
